@@ -35,3 +35,5 @@ https://en.wikipedia.org/wiki/Cree_syllabics
 https://itwewina.altlab.app/
 
 https://www.atlas-ling.ca/
+
+https://techvidvan.com/tutorials/python-language-translator/
